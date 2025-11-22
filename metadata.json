@@ -1,0 +1,5 @@
+{
+  "name": "ArXiv Insight",
+  "description": "An intelligent research assistant that uses Gemini 3.0 and Nano Banana Pro to explain, visualize, and interpret academic papers.",
+  "requestFramePermissions": []
+}
